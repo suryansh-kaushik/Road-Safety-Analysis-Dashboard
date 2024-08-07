@@ -66,7 +66,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   The dashboard became interactive and dynamic by creating a filter panel using a timeline and slicer as already created in the pivot table. The dashboard also has link       which leads to the dashboard, my email, this GitHub repository, and the Data Analysis Sheet directly and vice versa
 
-  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/5.png)
+  ![image](images/5.png)
 
 
 
