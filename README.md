@@ -26,9 +26,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
 ### 1. Getting dataset from the client (although this dataset was gotten here in Kaggle)
 
-  Data was taken from Kaggle
-  Data is available in the google drive link below:
-  https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
+  Data was given by the client and is available on Kaggle for parctice
 
 ### 2. Understanding the Business Case
 
